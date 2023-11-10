@@ -9,7 +9,8 @@ class Tarea extends Component{
             textDecoration: this.props.tarea.estado ? 'line-through':'none'  
         }
     }
-
+    /* dwdwqdwqdwqdqwwdq
+*/
     render(){
 
         const btnBorrar= {
